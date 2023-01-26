@@ -15,6 +15,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-moreno-possebon-914296232/)
+[![RemotarJobs](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://remotar.com.br/user-profile/julio-moreno)
 
 
 
