@@ -22,7 +22,6 @@
 
 ***
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Julio-MP&bg_color=041015&color=18cdca&line=15bc4f&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div>
